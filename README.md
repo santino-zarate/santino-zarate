@@ -1,27 +1,34 @@
 # 👋 Hi, I'm Santino
 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
 Backend Developer focused on building production-oriented systems.
 
+---
+
 ## 🚀 About Me
-- Building distributed systems with Go
-- Interested in backend architecture, scalability and async processing
-- Focused on real-world engineering problems
+- Building production-oriented distributed systems with Go  
+- Interested in backend architecture, scalability and async processing  
+- Focused on real-world engineering problems  
+
+---
 
 ## 🧠 Tech Stack
 
-**Backend**
-- Go
-- REST APIs
-- Event-Driven Architecture
+**Backend:**  
+Go, REST APIs, Event-Driven Architecture  
 
-**Messaging**
-- RabbitMQ
+**Messaging:**  
+RabbitMQ  
 
-**Databases**
-- PostgreSQL, MySQL
+**Databases:**  
+PostgreSQL, MySQL  
 
-**Infrastructure**
-- Docker, Linux
+**Infrastructure:**  
+Docker, Linux  
 
 ---
 
@@ -39,11 +46,11 @@ Production-oriented backend simulating a real e-commerce system.
 - Concurrency-safe stock handling (no overselling)
 
 🔗 Live Demo: https://ecommerce-demo-d0vt.onrender.com  
-🔗 GitHub: https://github.com/santino-zarate/ecommerce-distributed-backend
+🔗 GitHub: https://github.com/santino-zarate/ecommerce-distributed-backend  
 
 ---
 
-## 📊 What I'm Focused On
-- Distributed systems
-- Backend reliability
-- Scalable architectures
+## 🎯 Focus
+- Distributed systems  
+- Backend reliability  
+- Scalable architectures  
