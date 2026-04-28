@@ -5,7 +5,7 @@
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
-Backend Developer focused on building production-oriented systems.
+-Focused on solving real-world backend engineering problems
 
 ---
 
@@ -34,9 +34,13 @@ Docker, Linux
 
 ## 📦 Featured Project
 
-### 🛒 Distributed E-Commerce Backend
+### 🛒 Distributed E-Commerce Backend (Go, RabbitMQ, PostgreSQL)
+
+🔗 Live Demo: https://ecommerce-demo-d0vt.onrender.com  
+🔗 GitHub: https://github.com/santino-zarate/ecommerce-distributed-backend  
 
 Production-oriented backend simulating a real e-commerce system.
+Handles concurrent requests safely and prevents overselling under parallel execution.
 
 **Key features:**
 - Event-driven architecture (RabbitMQ)
@@ -45,8 +49,6 @@ Production-oriented backend simulating a real e-commerce system.
 - Idempotent consumers (at-least-once delivery)
 - Concurrency-safe stock handling (no overselling)
 
-🔗 Live Demo: https://ecommerce-demo-d0vt.onrender.com  
-🔗 GitHub: https://github.com/santino-zarate/ecommerce-distributed-backend  
 
 ---
 
