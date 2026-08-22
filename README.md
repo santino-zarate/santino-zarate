@@ -1,19 +1,30 @@
- ![Santino Zarate — Backend Developer](https://github.com/user-attachments/assets/0097971a-48cd-4558-ba0f-3e50e01f3834)
+![Santino Zarate — Backend Developer](assets/banner.svg)
+
 ## Hola, soy Santino
-### Backend Developer · Culiacán, MX 🇲🇽
-Construyo sistemas - multitenant, self-hosted. 
-[Portfolio](https://juanrz24.dev) · [LinkedIn](https://www.linkedin.com/in/jose-juan-rios-zavala-456b09361) · [Email](mailto:juancode24@gmail.com) · [X](https://x.com/Jexrz24)
+
+### Backend Developer · [Tu ciudad], AR 🇦🇷
+
+Construyo sistemas backend distribuidos — event-driven, escalables, listos para producción.
+
+<!-- reemplazá estos links por los tuyos, o borrá los que no uses -->
+[Portfolio](#) · [LinkedIn](#) · [Email](mailto:tu@email.com) · [GitHub](https://github.com/santino-zarate)
+
 ---
+
 ### Stack
-![Stack](https://skillicons.dev/icons?i=java,spring,go,postgres,docker,linux,react&theme=dark)
-También: Laravel · Rust · TypeScript · Supabase · SQLite
+
+![Stack](https://skillicons.dev/icons?i=golang,postgres,mysql,rabbitmq,docker,linux&theme=dark)
+
+También: REST APIs · Arquitectura orientada a eventos
+
 ---
+
 ### Projects
+
 | Proyecto | Qué es | Stack |
 |---|---|---|
-| **Fuero** | ERP multitenant para despachos jurídicos. Auth propia, gestión de casos y clientes, carga de documentos y plantillas configurables. | Java · Spring Boot · React · PostgreSQL |
-| **StardewModManager** | Gestor de mods para Stardew Valley. | Rust |
-| **BrunoCLI** | Cliente de GitHub que vive en tu terminal. | Go |
+| **[ecommerce-distributed-backend](https://github.com/santino-zarate/ecommerce-distributed-backend)** | Backend de e-commerce distribuido con manejo de stock concurrency-safe — cero overselling bajo carga paralela. | Go · RabbitMQ · PostgreSQL · Docker |
+
 ---
-![GitHub Stats Card](https://ghstats.dev/api/card?username=Juan2422&theme=ayu&border_radius=6)
-![snake](https://raw.githubusercontent.com/Juanrz24/Juanrz24/output/snake-dark.svg)
+
+![GitHub Stats](https://ghstats.dev/api/card?username=santino-zarate&theme=ayu&border_radius=6)
