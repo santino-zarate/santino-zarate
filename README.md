@@ -1,5 +1,5 @@
- ![Jose Juan Rios — Backend Developer](https://github.com/user-attachments/assets/0097971a-48cd-4558-ba0f-3e50e01f3834)
-## Hola, soy juan
+ ![Santino Zarate] — Backend Developer](https://github.com/user-attachments/assets/0097971a-48cd-4558-ba0f-3e50e01f3834)
+## Hola, soy Santino Zarate!
 ### Backend Developer · Culiacán, MX 🇲🇽
 Construyo sistemas - multitenant, self-hosted. 
 [Portfolio](https://juanrz24.dev) · [LinkedIn](https://www.linkedin.com/in/jose-juan-rios-zavala-456b09361) · [Email](mailto:juancode24@gmail.com) · [X](https://x.com/Jexrz24)
