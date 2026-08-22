@@ -27,4 +27,4 @@ También: REST APIs · Arquitectura orientada a eventos
 
 ---
 
-![GitHub Stats](https://ghstats.dev/api/card?username=santino-zarate&theme=ayu&border_radius=6)
+![snake](https://raw.githubusercontent.com/santino-zarate/santino-zarate/output/github-contribution-grid-snake-dark.svg)
