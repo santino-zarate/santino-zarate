@@ -2,12 +2,11 @@
 
 ## Hola, soy Santino
 
-### Backend Developer · [Tu ciudad], AR 🇦🇷
+### Backend Developer · AR 🇦🇷
 
 Construyo sistemas backend distribuidos — event-driven, escalables, listos para producción.
 
-<!-- reemplazá estos links por los tuyos, o borrá los que no uses -->
-[Portfolio](#) · [LinkedIn](#) · [Email](mailto:tu@email.com) · [GitHub](https://github.com/santino-zarate)
+[LinkedIn](https://www.linkedin.com/in/santino-zarate-ab7938343/) · [Email](zaratesantino4@gmail.com) · [GitHub](https://github.com/santino-zarate)
 
 ---
 
